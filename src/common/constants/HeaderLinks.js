@@ -7,7 +7,7 @@ export const LinksHeader = [
   {
     id: 2,
     name: "Proyectos",
-    link: "proyects",
+    link: "projects",
   },
   {
     id: 3,
